@@ -27,6 +27,7 @@ async function run() {
         await client.connect();
 
         const brandsCollection = client.db('dreamsCar').collection('allBrands');
+        const ordersCollection = client.db('dreamsCar').collection('allOrders');
 
 
         // get all the brands..
@@ -50,6 +51,19 @@ async function run() {
             const id = req.params.id;
             const query = { brand_id: id };
             const result = await brandsCollection.findOne(query);
+            res.send(result);
+        })
+
+
+        //Orders related api
+        app.get('/orders', async(req, res) => {
+            const result = await ordersCollection.find().toArray();
+            res.send(result);
+        })
+
+        app.post('/orders', async(req, res) => {
+            const order = req.body;
+            const result = await ordersCollection.insertOne(order);
             res.send(result);
         })
 
