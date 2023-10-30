@@ -1,0 +1,326 @@
+[
+    {
+        "brand_id": "910eeb02-9991-4348-9048-744fdbf9c1f0",
+        "name": "Audi A3",
+        "image": "../src/assets/car image/Audi/1.jpg",
+        "brand": "Audi",
+        "price": 38999,
+        "short_description": "The Audi A3 is a compact luxury sedan with a sporty design and advanced technology.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "82947eb5-0bb3-4f4d-8207-c69a81dbdd44",
+        "name": "Audi Q5",
+        "image": "../src/assets/car image/Audi/2.jpg",
+        "brand": "Audi",
+        "price": 49999,
+        "short_description": "The Audi Q5 is a stylish SUV with a spacious interior and all-wheel drive capability.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "5e7d17c5-0c87-46db-baf7-4e3e3e105bdf",
+        "name": "Audi A6",
+        "image": "../src/assets/car image/Audi/3.jpg",
+        "brand": "Audi",
+        "price": 54999,
+        "short_description": "The Audi A6 is a midsize luxury sedan known for its comfort and cutting-edge features.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "7eab2f3c-2b72-4e03-990a-8c48c2c5cb9e",
+        "name": "Audi S5",
+        "image": "../src/assets/car image/Audi/4.jpg",
+        "brand": "Audi",
+        "price": 64999,
+        "short_description": "The Audi S5 is a high-performance coupe with a thrilling driving experience.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "bf0a95c9-4d7f-4e3b-9135-bf0f6a169309",
+        "name": "Audi Q7",
+        "image": "../src/assets/car image/Audi/5.jpg",
+        "brand": "Audi",
+        "price": 74999,
+        "short_description": "The Audi Q7 is a premium SUV known for its sophisticated design and features.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "32a0c7d9-7f87-43b1-bec2-8ca51c4bea9d",
+        "name": "Audi R8",
+        "image": "../src/assets/car image/Audi/6.jpg",
+        "brand": "Audi",
+        "price": 169999,
+        "short_description": "The Audi R8 is a supercar with breathtaking speed and exquisite craftsmanship.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "84c39036-cbdb-4e13-a079-c06f02b1d7a2",
+        "name": "Toyota Corolla",
+        "image": "../src/assets/car image/Toyota/1.jpg",
+        "brand": "Toyota",
+        "price": 23999,
+        "short_description": "The Toyota Corolla is a compact sedan known for its reliability and fuel efficiency.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "bc7457fc-0e7b-4372-84f9-777ce2d80d8a",
+        "name": "Toyota RAV4",
+        "image": "../src/assets/car image/Toyota/2.jpg",
+        "brand": "Toyota",
+        "price": 28999,
+        "short_description": "The Toyota RAV4 is a versatile SUV with ample cargo space and off-road capabilities.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "f7a1e742-d5df-4cd5-baad-1c32aa19e6e5",
+        "name": "Toyota Camry Hybrid",
+        "image": "../src/assets/car image/Toyota/3.jpg",
+        "brand": "Toyota",
+        "price": 32999,
+        "short_description": "The Toyota Camry Hybrid is a midsize hybrid sedan offering excellent fuel economy and comfort.",
+        "ratings": 4.5
+    },
+    {
+        "brand_id": "97ed78a1-5c6a-4590-8e4c-5a3c95e049b9",
+        "name": "Toyota 4Runner",
+        "image": "../src/assets/car image/Toyota/4.jpg",
+        "brand": "Toyota",
+        "price": 39999,
+        "short_description": "The Toyota 4Runner is a rugged off-road SUV designed for adventure enthusiasts.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "dd7f8b7f-0fc9-42cc-8a1e-2c95d2067c99",
+        "name": "Toyota Highlander",
+        "image": "../src/assets/car image/Toyota/5.jpg",
+        "brand": "Toyota",
+        "price": 34999,
+        "short_description": "The Toyota Highlander is a family-friendly SUV with a spacious interior and safety features.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "0c9ed437-ff94-4453-b5f2-d0d516e7342f",
+        "name": "Toyota Tacoma",
+        "image": "../src/assets/car image/Toyota/6.jpg",
+        "brand": "Toyota",
+        "price": 29999,
+        "short_description": "The Toyota Tacoma is a compact pickup truck known for its durability and off-road capability.",
+        "ratings": 4.6
+      },
+    {
+        "brand_id": "ce7dc868-085f-48c0-bbf6-47b1feb8bfaa",
+        "name": "Ford Focus",
+        "image": "../src/assets/car image/Ford/1.jpg",
+        "brand": "Ford",
+        "price": 20999,
+        "short_description": "The Ford Focus is a compact car with a comfortable interior and great fuel efficiency.",
+        "ratings": 4.4
+    },
+    {
+        "brand_id": "4ba41780-1e18-4063-b575-5d59e3d3a0ac",
+        "name": "Ford Escape",
+        "image": "../src/assets/car image/Ford/2.jpg",
+        "brand": "Ford",
+        "price": 26999,
+        "short_description": "The Ford Escape is a versatile SUV with advanced safety features and ample cargo space.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "2996ef37-b245-4f6f-8ecf-f035ff856c77",
+        "name": "Ford Mustang GT",
+        "image": "../src/assets/car image/Ford/3.jpg",
+        "brand": "Ford",
+        "price": 49999,
+        "short_description": "The Ford Mustang GT is a high-performance muscle car known for its powerful V8 engine.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "a30bbe26-b7b4-44cb-965c-2c57bc997eaf",
+        "name": "Ford Explorer",
+        "image": "../src/assets/car image/Ford/4.jpg",
+        "brand": "Ford",
+        "price": 34999,
+        "short_description": "The Ford Explorer is a midsize SUV with three-row seating and a comfortable ride.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "2dbfb5e5-4ab4-4f6b-ae05-b4a4f3eb7de2",
+        "name": "Ford F-150",
+        "image": "../src/assets/car image/Ford/5.jpg",
+        "brand": "Ford",
+        "price": 38999,
+        "short_description": "The Ford F-150 is a full-size pickup truck known for its strength and towing capacity.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "1eab2ffa-c31f-4699-8f98-a4f6d1df911c",
+        "name": "Ford Bronco",
+        "image": "../src/assets/car image/Ford/6.jpg",
+        "brand": "Ford",
+        "price": 41999,
+        "short_description": "The Ford Bronco is a rugged off-road SUV designed for adventure and exploration.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "6f5a5fd6-2e35-4e09-a0a6-265ab13940b5",
+        "name": "Mercedes C-Class",
+        "image": "../src/assets/car image/mercedes/1.jpg",
+        "brand": "Mercedes",
+        "price": 41999,
+        "short_description": "The Mercedes C-Class is a luxury compact sedan with a sophisticated design and advanced technology.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "b96dc118-a619-4b66-bd12-9f32b74728e0",
+        "name": "Mercedes GLC",
+        "image": "../src/assets/car image/mercedes/2.jpg",
+        "brand": "Mercedes",
+        "price": 48999,
+        "short_description": "The Mercedes GLC is a stylish SUV with a spacious interior and premium features.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "66b1481b-343f-478f-88ac-1edffc520f82",
+        "name": "Mercedes E-Class",
+        "image": "../src/assets/car image/mercedes/3.jpg",
+        "brand": "Mercedes",
+        "price": 59999,
+        "short_description": "The Mercedes E-Class is a midsize luxury sedan known for its comfort and cutting-edge technology.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "ea8da3d3-0452-4149-a64c-70d27d8a6953",
+        "name": "Mercedes GLE",
+        "image": "../src/assets/car image/mercedes/4.jpg",
+        "brand": "Mercedes",
+        "price": 67999,
+        "short_description": "The Mercedes GLE is a premium SUV with a blend of performance and elegance.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "fae19775-f23d-48bf-9ef4-a9976287873f",
+        "name": "Mercedes S-Class",
+        "image": "../src/assets/car image/mercedes/5.jpg",
+        "brand": "Mercedes",
+        "price": 79999,
+        "short_description": "The Mercedes S-Class is a flagship luxury sedan with unparalleled luxury and innovation.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "710c14e8-9c9e-4032-8c8e-2c134c2dbb11",
+        "name": "Mercedes AMG GT",
+        "image": "../src/assets/car image/mercedes/6.jpg",
+        "brand": "Mercedes",
+        "price": 119999,
+        "short_description": "The Mercedes AMG GT is a high-performance sports car offering thrilling speed and style.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "2f15b332-0fb2-418c-8261-78751be40d9d",
+        "name": "Tesla Model 3",
+        "image": "../src/assets/car image/Tesla/1.jpg",
+        "brand": "Tesla",
+        "price": 39999,
+        "short_description": "The Tesla Model 3 is an electric sedan with impressive range and advanced autopilot features.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "acbdb749-f640-40df-a404-6842585e6c1f",
+        "name": "Tesla Model X",
+        "image": "../src/assets/car image/Tesla/2.jpg",
+        "brand": "Tesla",
+        "price": 79999,
+        "short_description": "The Tesla Model X is an electric SUV with distinctive falcon-wing doors and spacious seating.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "fb37b2b4-2c40-4b09-9f16-99c48d0b1171",
+        "name": "Tesla Model Y",
+        "image": "../src/assets/car image/Tesla/3.jpg",
+        "brand": "Tesla",
+        "price": 49999,
+        "short_description": "The Tesla Model Y is a compact electric SUV designed for practicality and efficiency.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "74f8c86c-8adb-4f10-aabb-6dcd990d67bb",
+        "name": "Tesla Model S Plaid",
+        "image": "../src/assets/car image/Tesla/4.jpg",
+        "brand": "Tesla",
+        "price": 139999,
+        "short_description": "The Tesla Model S Plaid is a high-performance electric sedan with incredible acceleration.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "a61b0f5b-5bd1-4648-bbe8-accdf233415e",
+        "name": "Tesla Cybertruck",
+        "image": "../src/assets/car image/Tesla/5.jpg",
+        "brand": "Tesla",
+        "price": 39999,
+        "short_description": "The Tesla Cybertruck is an all-electric pickup truck with a futuristic design and rugged capability.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "c67b94b0-5f26-44f7-971b-f3dff97b4857",
+        "name": "Tesla Roadster",
+        "image": "../src/assets/car image/Tesla/6.jpg",
+        "brand": "Tesla",
+        "price": 199999,
+        "short_description": "The Tesla Roadster is an electric sports car with breathtaking speed and style.",
+        "ratings": 4.9
+    },
+    {
+        "brand_id": "ea3716e3-f4ae-422d-a084-4621d709f6c7",
+        "name": "Honda Accord",
+        "image": "../src/assets/car image/Honda/1.jpg",
+        "brand": "Honda",
+        "price": 26999,
+        "short_description": "The Honda Accord is a midsize sedan known for its reliability and comfortable ride.",
+        "ratings": 4.7
+    },
+    {
+        "brand_id": "decda34b-64a7-477c-a040-24aa7b45a84b",
+        "name": "Honda CR-V",
+        "image": "../src/assets/car image/Honda/2.jpg",
+        "brand": "Honda",
+        "price": 29999,
+        "short_description": "The Honda CR-V is a popular compact SUV with a spacious interior and great fuel efficiency.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "4d6237c0-f353-47f9-8923-7224c31ca67d",
+        "name": "Honda Civic Hatchback",
+        "image": "../src/assets/car image/Honda/3.jpg",
+        "brand": "Honda",
+        "price": 21999,
+        "short_description": "The Honda Civic Hatchback is a versatile and sporty compact car with a hatchback design.",
+        "ratings": 4.6
+    },
+    {
+        "brand_id": "e1b69cee-a52a-4f48-ab9d-29c9414c6519",
+        "name": "Honda Pilot",
+        "image": "../src/assets/car image/Honda/4.jpg",
+        "brand": "Honda",
+        "price": 35999,
+        "short_description": "The Honda Pilot is a family-friendly midsize SUV with three-row seating and advanced safety features.",
+        "ratings": 4.8
+    },
+    {
+        "brand_id": "0333f3d4-e604-4334-9478-4dc4a481fb20",
+        "name": "Honda Fit",
+        "image": "../src/assets/car image/Honda/5.jpg",
+        "brand": "Honda",
+        "price": 16999,
+        "short_description": "The Honda Fit is a subcompact car known for its versatility and excellent use of interior space.",
+        "ratings": 4.5
+    },
+    {
+        "brand_id": "7802ba4f-e39d-4074-a0eb-6416df7ae30b",
+        "name": "Honda Odyssey",
+        "image": "../src/assets/car image/Honda/6.jpg",
+        "brand": "Honda",
+        "price": 31999,
+        "short_description": "The Honda Odyssey is a minivan with a comfortable interior and family-friendly features.",
+        "ratings": 4.7
+    }
+]
